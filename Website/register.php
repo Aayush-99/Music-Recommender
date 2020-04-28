@@ -40,7 +40,7 @@ if (isset($_POST['username']) && isset($_POST['password']) && isset($_POST['pass
 }
 
 ?>
-<link rel="stylesheet" type="text/css" href="loginstyle.css">
+<link rel="stylesheet" type="text/css" href="css/loginstyle.css">
 <form action="register.php" method="POST">
 	<h1> SIGN UP </h1><br>
 
