@@ -23,7 +23,7 @@ if (isset($_POST['username'])&&isset($_POST['password'])) {
 	}
 }
 ?>
-<link rel="stylesheet" type="text/css" href="loginstyle.css">
+<link rel="stylesheet" type="text/css" href="css/loginstyle.css">
 <form action="<?php echo $current_files; ?>" method="POST">
 	<h1> SIGN IN </h1><br>
 
